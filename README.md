@@ -1,4 +1,4 @@
-# LCOM 
+# Laboratório de Computadores 
 
 2º Ano 1º Semestre
 
